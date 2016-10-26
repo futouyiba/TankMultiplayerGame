@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.10",
+	"EngineAssociation": "{FDB754A8-423A-81BF-2BE8-C68346C24500}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -11,10 +11,6 @@
 		}
 	],
 	"Plugins": [
-		{
-			"Name": "GameSparks",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/0bb7b72905c64c7d86c4c430a42bc9c1"
-		}
+
 	]
 }
